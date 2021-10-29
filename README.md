@@ -30,4 +30,4 @@ This is the official repo for Scoreboard-revision! Don't know what this is? [Che
 - **`dev: MESSAGE`**<br/>
   Example: *dev: added utility class*<br/>
   For work that improves our development, this format can be used. It shouldn't be 
-  used that often though.
+  used that often though
